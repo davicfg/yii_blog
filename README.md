@@ -1,2 +1,2 @@
-# yii_blog
+# Yii blog
 The blog tutorial with yii framework.
